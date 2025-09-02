@@ -1,0 +1,3 @@
+[submodule "Mask_RCNN_Poolfinder"]
+	path = Mask_RCNN_Poolfinder
+	url = https://github.com/TimoWalraven/Mask_RCNN_Poolfinder
